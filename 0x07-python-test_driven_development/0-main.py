@@ -13,5 +13,3 @@ try:
     print(add_integer(None))
 except Exception as e:
     print(e)
-Footer
-© 2022 GitHub, Inc.
